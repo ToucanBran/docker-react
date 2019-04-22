@@ -20,6 +20,7 @@ class App extends Component {
             Learn React
           </a>
 	    <div>Green is not a creative color</div>
+	    <div>This is a new feature</div>
         </header>
       </div>
     );
